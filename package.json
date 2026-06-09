@@ -1,5 +1,5 @@
 {
-  "name": "asterisk-manager",
+  "name": "@bacca2095/asterisk-manager",
   "version": "1.0.0",
   "description": "A node.js module for interacting with the Asterisk Manager API.",
   "author": "Cesar Bacca <bacca2095@gmail.com>",
