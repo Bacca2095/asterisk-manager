@@ -15,9 +15,6 @@
   "files": [
     "dist"
   ],
-  "engines": {
-    "node": ">=18"
-  },
   "packageManager": "pnpm@11.5.0",
   "scripts": {
     "build": "tsc",
