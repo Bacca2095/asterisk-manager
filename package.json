@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cesarbacca/asterisk-manager.git"
+    "url": "https://github.com/Bacca2095/asterisk-manager.git"
   },
   "bugs": {
-    "url": "https://github.com/cesarbacca/asterisk-manager/issues"
+    "url": "https://github.com/Bacca2095/asterisk-manager/issues"
   },
-  "homepage": "https://github.com/cesarbacca/asterisk-manager#readme",
+  "homepage": "https://github.com/Bacca2095/asterisk-manager#readme",
   "devDependencies": {
     "@types/node": "25.9.2",
     "typescript": "6.0.3"
