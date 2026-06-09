@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/Bacca2095/asterisk-manager/compare/asterisk-manager-v1.1.1...asterisk-manager-v1.1.2) (2026-06-09)
+
+
+### Bug Fixes
+
+* update repository URLs in package.json to reflect correct GitHub account ([085ceb2](https://github.com/Bacca2095/asterisk-manager/commit/085ceb2d7089b85b0f5139e82f97e7d8307fa601))
+
 ## [1.1.1](https://github.com/Bacca2095/asterisk-manager/compare/asterisk-manager-v1.1.0...asterisk-manager-v1.1.1) (2026-06-09)
 
 
