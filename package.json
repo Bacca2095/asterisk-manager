@@ -1,0 +1,38 @@
+{
+  "name": "asterisk-manager",
+  "version": "1.0.0",
+  "description": "A node.js module for interacting with the Asterisk Manager API.",
+  "author": "Cesar Bacca <bacca2095@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "asterisk",
+    "voip",
+    "ami",
+    "asterisk-manager"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@11.5.0",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cesarbacca/asterisk-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cesarbacca/asterisk-manager/issues"
+  },
+  "homepage": "https://github.com/cesarbacca/asterisk-manager#readme",
+  "devDependencies": {
+    "@types/node": "25.9.2",
+    "typescript": "6.0.3"
+  }
+}
