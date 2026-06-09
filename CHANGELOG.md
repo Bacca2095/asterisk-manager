@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/Bacca2095/asterisk-manager/compare/asterisk-manager-v1.1.0...asterisk-manager-v1.1.1) (2026-06-09)
+
+
+### Bug Fixes
+
+* add missing token configuration for release-please-action ([c9d9479](https://github.com/Bacca2095/asterisk-manager/commit/c9d9479ad8379357f4e4d2812a38696671664d59))
+
 ## [1.1.0](https://github.com/Bacca2095/asterisk-manager/compare/asterisk-manager-v1.0.0...asterisk-manager-v1.1.0) (2026-06-09)
 
 
